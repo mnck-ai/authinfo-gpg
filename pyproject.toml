@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "authinfo-gpg"
+version = "0.1.0"
+description = "Read GPG-encrypted .authinfo credential files"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+keywords = ["authinfo", "gpg", "credentials", "netrc", "authentication"]
+authors = [
+  {name = "Armin Monecke", email = "authinfo-gpg@mnck.ai"}
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.7",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Security",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/a-min-7/authinfo-gpg"
+"Bug Reports" = "https://github.com/a-min-7/authinfo-gpg/issues"
+"Source" = "https://github.com/a-min-7/authinfo-gpg"
