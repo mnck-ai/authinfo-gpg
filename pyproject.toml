@@ -30,6 +30,6 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/a-min-7/authinfo-gpg"
-"Bug Reports" = "https://github.com/a-min-7/authinfo-gpg/issues"
-"Source" = "https://github.com/a-min-7/authinfo-gpg"
+"Homepage" = "https://github.com/mnck-ai/authinfo-gpg"
+"Bug Reports" = "https://github.com/mnck-ai/authinfo-gpg/issues"
+"Source" = "https://github.com/mnck-ai/authinfo-gpg"
